@@ -25,6 +25,7 @@ import net.sf.kraken.util.chatstate.ChatStateChangeEvent;
 import net.sf.kraken.util.chatstate.ChatStateEventListener;
 import net.sf.kraken.util.chatstate.ChatStateEventSource;
 
+import org.jivesoftware.util.Base64;
 import org.apache.log4j.Logger;
 import org.dom4j.DocumentHelper;
 import org.dom4j.Element;
